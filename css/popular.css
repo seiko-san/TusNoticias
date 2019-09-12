@@ -1,0 +1,19 @@
+article,h1{
+    font-size: 30px;
+ color: tomato;
+}
+article,h2{font-size: 24px;
+color: blue;}
+
+#cyberpunk{
+    width: 800px;
+}
+.atras{
+    float: left;
+    width: 40px;
+}
+
+.logo{
+    float: right;
+    width: 10px;
+}

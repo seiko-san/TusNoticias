@@ -1,0 +1,15 @@
+.footer {
+    height:50px; 
+    width:100%;
+    background-color:rgb(233, 172, 59);
+    color:#FFF;
+    padding:5px 0px;
+    text-align:center;
+    clear: both;
+    
+}
+
+.footer-push {
+    height: 60px
+    
+}

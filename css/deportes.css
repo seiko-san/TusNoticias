@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.articuloMaradona h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.articuloMaradona p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.articuloMaradona img{
+    width: 350px;
+    height: 350px;
+    float: right;
+}
+.artKevinD h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.artKevinD h3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.artKevinD img{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+.artKevinD p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.artSterling h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.artSterling h3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.artSterling img{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+.racismo h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.racismo p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.racismo img{
+    width: 250px;
+    height: 250px;
+}
+.motogp h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.motogp p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.motogp img{
+    width: 250px;
+    height: 250px;
+}
+.basquet h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.basquet p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.basquet img{
+    width: 150px;
+    height: 150px;
+}
