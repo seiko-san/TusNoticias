@@ -10,4 +10,3 @@
 
 ## :point_down: :point_down: :point_down::point_down: :point_down: :point_down: :point_down: :point_down:
 ## precaución: algunos archivos pueden tener copyright se recomienda discreción ##
-## traspasar index html portada css diario_digital html load.js
